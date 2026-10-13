@@ -35,4 +35,4 @@ This repository showcases the game's core gameplay and technical systems for por
 
 ## 🎮 Google Play
 
-[[View Mystic Match Saga on Google Play](GOOGLE_PLAY_LINK)](https://play.google.com/store/apps/details?id=com.fincoregame.mysticmatchsaga&hl=tr)
+[View Mystic Match Saga on Google Play](https://play.google.com/store/apps/details?id=com.fincoregame.mysticmatchsaga)
